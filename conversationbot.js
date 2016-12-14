@@ -1,10 +1,12 @@
 /*
-`ConversationBot' is a general chatbot engine that can be supplied with any rule set.
-  (for required data structures cf. "conversationdata.js" and/or see the documentation.)
-  data is parsed and transformed for internal use at the creation time of the
+`ConversationBot' is a general chatbot engine which was implemented with javascript and telegram bot api.
+  
+  Data is parsed and transformed for internal use at the creation time of the
   first instance of the `ConversationBot' constructor.
+  
+  Developed for Distributed systems end of semester project 
  
-it is developed with javascript and incoporated is the telegram bot api."
+
      
   synopsis:
 
