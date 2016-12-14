@@ -1,3 +1,4 @@
+
 // data for conversationbot.js
 
 
@@ -5,6 +6,10 @@
 var conversationInitials = [
 "How do you do?",
 "Hi",
+//addition again 
+"Hello",
+"Hi there",
+"Holla",
 "Greetings",
 "Good morning too",
 "Good Afternoon too",
@@ -18,6 +23,9 @@ var conversationFinals = [
 // additions (not original)
 "Goodbye.  This was really a nice talk.",
 "Goodbye.  I'm looking forward to our next session.",
+"Bye, have a good one",
+"ok, stay safe",
+"Bye bye, talk to you some other time",
 "This was a good session, wasn't it -- but time is over now.   Goodbye.",
 "Maybe we could discuss this moreover in our next session ?   Goodbye."
 ];
